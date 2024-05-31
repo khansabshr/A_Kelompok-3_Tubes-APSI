@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.btn-custom-size {
+    width: 250px;  /* Adjust width as needed */
+    height: 75px; /* Adjust height as needed */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-img-size {
+    width: 200px;
+    height: auto;
+}
